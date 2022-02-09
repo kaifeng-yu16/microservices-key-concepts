@@ -1,4 +1,5 @@
 # microservices-key-concepts
+[![Mictroservices-key-concepts test](https://github.com/kaifeng-yu16/microservices-key-concepts/actions/workflows/main.yml/badge.svg)](https://github.com/kaifeng-yu16/microservices-key-concepts/actions/workflows/main.yml)
 Key Concepts in Microservices
 
 1.  write a [test for flask](https://flask.palletsprojects.com/en/2.0.x/testing/#testing-json-apis) or [fastapi](https://fastapi.tiangolo.com/tutorial/testing/) or both
